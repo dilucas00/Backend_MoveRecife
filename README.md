@@ -1,4 +1,4 @@
-# MoveRecife - Backend (Generated)
+# MoveRecife - Backend 
 
 Projeto backend Node.js para o MoveRecife — painel de parada de ônibus que combina dados GTFS (ônibus) + sensores (ThingSpeak) + analytics (MongoDB).
 
